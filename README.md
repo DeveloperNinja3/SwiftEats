@@ -1,7 +1,7 @@
 # SwiftEats
 ---
 
-
+[![Built with Kotlin](https://img.shields.io/badge/Powered%20by-Kotlin-orange)](https://kotlinlang.org/) [![MVVM Architecture](https://img.shields.io/badge/MVVM-Architecture-brightgreen)](#) [![Coroutines Enabled](https://img.shields.io/badge/Coroutines-Enabled-blue)](#) [![Retrofit Integrated](https://img.shields.io/badge/Retrofit-Integrated-green)](https://square.github.io/retrofit/) [![Picasso](https://img.shields.io/badge/Image%20Loader-Picasso-yellow)](https://square.github.io/picasso/) [![Firebase Realtime Database](https://img.shields.io/badge/Firebase-Realtime%20Database-blue)](https://firebase.google.com/products/realtime-database/) [![Firebase Authentication](https://img.shields.io/badge/Firebase-Authentication-red)](https://firebase.google.com/products/auth/) [![Google Pay Integrated](https://img.shields.io/badge/Google%20Pay-Enabled-brightgreen)](#) [![LiveData](https://img.shields.io/badge/LiveData-Used-orange)](https://developer.android.com/topic/libraries/architecture/livedata) [![Material Design](https://img.shields.io/badge/Material-Design-blue)](https://material.io/design/) 
 ---
 
 ## Industry  
